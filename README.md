@@ -5,7 +5,7 @@
 **Type:** Lesson week
 
 
-## Demo video (required)
+## [DEMO DEMO DEMO DEMO](https://youtu.be/C96__qn6xoI)
 
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
